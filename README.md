@@ -28,6 +28,7 @@ A content-based recommendation system built with Flask that suggests similar mov
 
 ### Dataset
 - **netflix_titles.csv**: Contains Netflix movies and TV shows data with the following fields:
+- **Source of Data** : https://www.kaggle.com/netflix-inc/netflix-prize-data
   - show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
 
 ##  How It Works
@@ -144,3 +145,4 @@ The `netflix_titles.csv` dataset contains:
 - **Source**: Netflix content catalog
 
 **Note**: This is an educational project and is not affiliated with or endorsed by Netflix, Inc.
+
