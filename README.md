@@ -137,13 +137,7 @@ Main recommendation function that:
 - Recommendations are based solely on content features, not user ratings or viewing history
 - Performance may vary with very large datasets
 
-## Dataset Information
-
-The `netflix_titles.csv` dataset contains:
-- **Total entries**: 8,000+ movies and TV shows
-- **Features**: 12 columns including show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
-- **Source**: Netflix content catalog
-
 **Note**: This is an educational project and is not affiliated with or endorsed by Netflix, Inc.
+
 
 
